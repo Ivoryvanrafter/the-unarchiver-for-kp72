@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with instant Helper for The Unarchiver for macOS - snapshot-rollback and CPU-monitoring, the #1 helper. Includes snapshot-rollback and
 
 
 
